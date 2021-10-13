@@ -1,6 +1,8 @@
 # Java-Servlet-JSP
 Java-Servlet-JSP
 
+Projeto dado como exercícios a ser execultado para buscar e aprimorar o conhecimento nas tecnologias Servlet e JSP
+
 <h1>Tela Inicial Projeto - Cadastrar Alunos</h1>
 
 ![137118255-def773fa-cbde-4fc1-99a4-581f6a3a743f](https://user-images.githubusercontent.com/69328711/137130830-d2b108f4-ba24-4b50-aaf3-25605a33ded1.png)
