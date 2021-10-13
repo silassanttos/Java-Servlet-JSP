@@ -20,13 +20,13 @@ SCRIPT SQL:
 
 CREATE DATABASE sisaluno;
 
-CREATE TABLE IF NOT EXISTS  tbAluno(
-	caAluno 		INT(11) 		NOT NULL,
-	nomeAluno	VARCHAR(100) 	NOT NULL,
-	emailAluno	VARCHAR(100) 	NOT NULL,
-	dtaNasc		DATE 		NOT NULL,
-	endAluno		VARCHAR(100) 	NOT NULL,
-	idadeAluno	INT(11) 		NOT NULL
+CREATE TABLE IF NOT EXISTS  tbAluno( <br>
+	caAluno 		INT(11) 		NOT NULL,<br>
+	nomeAluno	VARCHAR(100) 	NOT NULL,		<br>
+	emailAluno	VARCHAR(100) 	NOT NULL,		<br>
+	dtaNasc		DATE 		NOT NULL,		<br>
+	endAluno		VARCHAR(100) 	NOT NULL,	<br>
+	idadeAluno	INT(11) 		NOT NULL	<br>
 );
 
 
