@@ -16,6 +16,22 @@ Java-Servlet-JSP
 
 
 
+SCRIPT SQL:
+
+CREATE DATABASE sisaluno;
+
+CREATE TABLE IF NOT EXISTS  tbAluno(
+	caAluno 		INT(11) 		NOT NULL,
+	nomeAluno	VARCHAR(100) 	NOT NULL,
+	emailAluno	VARCHAR(100) 	NOT NULL,
+	dtaNasc		DATE 		NOT NULL,
+	endAluno		VARCHAR(100) 	NOT NULL,
+	idadeAluno	INT(11) 		NOT NULL
+);
+
+
+
+
 
 
 
