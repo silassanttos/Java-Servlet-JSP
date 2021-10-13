@@ -16,7 +16,9 @@ Java-Servlet-JSP
 
 
 
-SCRIPT SQL:
+SCRIPT SQL: 
+
+<img src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-files-copywriting-itim2101-blue-itim2101.png"/>
 
 CREATE DATABASE sisaluno;
 
